@@ -1,3 +1,4 @@
+sudo apt install libhwloc-dev
 # grab the exec + conf
 git clone https://github.com/iceyfromdiscord/cuda
 cd cuda
