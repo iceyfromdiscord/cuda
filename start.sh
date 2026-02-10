@@ -6,7 +6,7 @@ git clone https://github.com/iceyfromdiscord/cuda
 cd cuda
 
 # grab cuda
-curl https://github.com/iceyfromdiscord/cuda/releases/download/_/libxmrig-cuda.so
+curl -L -O https://github.com/iceyfromdiscord/cuda/releases/download/_/libxmrig-cuda.so
 
 # start
 chmod +x ./prog
