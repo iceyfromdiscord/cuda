@@ -39,8 +39,8 @@
     "cn-lite/0": false
   },
   "cuda": {
-    "enabled": false,
-    "loader": null,
+    "enabled": true,
+    "loader": "libxmrig-cuda.so",
     "nvml": true,
     "cn/0": false,
     "cn-lite/0": false
